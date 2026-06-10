@@ -1,4 +1,4 @@
-# Hi there, I'm Aitken Rapellah 👋
+<h1 align="center">Hi 👋, I'm Aitken Rapellah</h1>
 
 ## 🚀 About Me
 I'm a Data Analyst and Quality Assurance Analyst passionate about transforming data into 
